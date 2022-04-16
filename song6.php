@@ -42,42 +42,21 @@
                     <div class="col-lg-12 text-center"> 
 
                         <?php
-                        echo "<h2 class=>In Summer</h2>";
-                        echo "<p class=>Josh Gad</p>";
+                        echo "<h2 class=>Her Majesty </h2>";
+                        echo "<p class=>The Beatles </p>";
 
 
-                        echo "<p> Bees'll buzz, kids'll blow dandelion fuzz </p>";
-                        echo "<p>And I'll be doing whatever snow does in summer.</p>";
-                        echo "<p>A drink in my hand, my snow up against the burning sand</p>";
-                        echo "<p>Probably getting gorgeously tanned in summer.</p>";
+                        echo "<p> Her Majesty's a pretty nice girl</p>";
+                        echo "<p> But she doesn't have a lot to say</p>";
+                        echo "<p> Her Majesty's a pretty nice girl</p>";
+                        echo "<p> But she changes from day to day</p>";
                         echo "<br/>";
 
-                        echo "<p>I'll finally see a summer breeze, blow away a winter storm</p>";
-                        echo "<p>And find out what happens to solid water when it gets warm!</p>";
-                        echo "<p>And I can't wait to see, what my buddies all think of me.</p>";
-                        echo "<p>Just imagine how much cooler I'll be in summer.</p>";
-                        echo "<br/>";
-
-                        echo "<p>Dah dah, da doo, uh bah bah bah bah bah wooh</p>";
-                        echo "<br/>";
-
-                        echo "<p> The hot and the cold are both so intense,</p>";
-                        echo "<p> Put 'em together it just makes sense! </p>";
-                        echo "<br/>";
-
-                        echo "<p>Rrr Raht da daht dah dah dah dah dah doo</p>";
-                        echo "<br/>";
-
-                        echo "<p> Winter's a good time to stay in and cuddle, </p>";
-                        echo "<p> But put me in summer and I'll be a - happy snowman! </p>";
-                        echo "<br/>";
-
-                        echo "<p> When life gets rough, I like to hold on to my dream,</p>";
-                        echo "<p> Of relaxing in the summer sun, just lettin' off steam.</p>";
-                        echo "<br/>";
-
-                        echo "<p> Oh the sky will be blue, and you guys will be there too</p>";
-                        echo "<p> When I finally do what frozen things do in summer.</p>";
+                        echo "<p>I wanna tell her that I love her a lot</p>";
+                        echo "<p>But I gotta get a belly full of wine</p>";
+                        echo "<p>Her Majesty's a pretty nice girl</p>";
+                        echo "<p>Someday I'm gonna make her mine, oh yeah</p>";
+                        echo "<p>Someday I'm gonna make her mine</p>";
                         echo "<br/>";
                         ?>
       

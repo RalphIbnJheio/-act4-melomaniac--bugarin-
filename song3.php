@@ -20,9 +20,9 @@
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link text-light" href="http://localhost/melomaniac-activity/song2.php">Song 1</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="http://localhost/melomaniac-activity/song3.php">Song 2</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 3</a></li>
-                         <li class="nav-item"><a class="nav-link text-light" href="#">Song 4</a></li>
-                          <li class="nav-item"><a class="nav-link text-light" href="#">Song 5</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="http://localhost/melomaniac-activity/song4.php">Song 3</a></li>
+                         <li class="nav-item"><a class="nav-link text-light" href="http://localhost/melomaniac-activity/song5.php">Song 4</a></li>
+                          <li class="nav-item"><a class="nav-link text-light" href="http://localhost/melomaniac-activity/song6.php">Song 5</a></li>
                     </ul>
                 </div>
             </div>

@@ -42,42 +42,49 @@
                     <div class="col-lg-12 text-center"> 
 
                         <?php
-                        echo "<h2 class=>In Summer</h2>";
-                        echo "<p class=>Josh Gad</p>";
+                        echo "<h2 class=>Blur </h2>";
+                        echo "<p class=>Song 2 </p>";
 
 
-                        echo "<p> Bees'll buzz, kids'll blow dandelion fuzz </p>";
-                        echo "<p>And I'll be doing whatever snow does in summer.</p>";
-                        echo "<p>A drink in my hand, my snow up against the burning sand</p>";
-                        echo "<p>Probably getting gorgeously tanned in summer.</p>";
+                        echo "<p> I got my head checked </p>";
+                        echo "<p> By a jumbo jet  </p>";
+                        echo "<p> It wasn't easy</p>";
+                        echo "<p> But nothing i-is </p>";
+                        echo "<p> No </p>";
                         echo "<br/>";
 
-                        echo "<p>I'll finally see a summer breeze, blow away a winter storm</p>";
-                        echo "<p>And find out what happens to solid water when it gets warm!</p>";
-                        echo "<p>And I can't wait to see, what my buddies all think of me.</p>";
-                        echo "<p>Just imagine how much cooler I'll be in summer.</p>";
+                        echo "<p>Woo-hoo</p>";
+                        echo "<p>When I feel heavy-metal</p>";
+                        echo "<p>Woo-hoo</p>";
+                        echo "<p>And I'm pins and I'm needles</p>";
+                        echo "<p>Woo-hoo</p>";
+                        echo "<p>Well, I lie and I'm easy</p>";
+                        echo "<p>All of the time but I'm never sure</p>";
+                        echo "<p>Why I need you</p>";
+                        echo "<p>Pleased to meet you</p>";
                         echo "<br/>";
 
-                        echo "<p>Dah dah, da doo, uh bah bah bah bah bah wooh</p>";
+                        echo "<p>I got my head done</p>";
+                        echo "<p>When I was young</p>";
+                        echo "<p>It's not my problem</p>";
+                        echo "<p>It's not my problem</p>";
                         echo "<br/>";
 
-                        echo "<p> The hot and the cold are both so intense,</p>";
-                        echo "<p> Put 'em together it just makes sense! </p>";
+                        echo "<p>Woo-hoo</p>";
+                        echo "<p>When I feel heavy-metal</p>";
+                        echo "<p>Woo-hoo</p>";
+                        echo "<p>And I'm pins and I'm needles</p>";
+                        echo "<p>Woo-hoo</p>";
+                        echo "<p>Well, I lie and I'm eas</p>";
+                        echo "<p>All of the time but I'm never sure</p>";
+                        echo "<p>Why I need you</p>";
+                        echo "<p>Pleased to meet you</p>";
                         echo "<br/>";
 
-                        echo "<p>Rrr Raht da daht dah dah dah dah dah doo</p>";
-                        echo "<br/>";
-
-                        echo "<p> Winter's a good time to stay in and cuddle, </p>";
-                        echo "<p> But put me in summer and I'll be a - happy snowman! </p>";
-                        echo "<br/>";
-
-                        echo "<p> When life gets rough, I like to hold on to my dream,</p>";
-                        echo "<p> Of relaxing in the summer sun, just lettin' off steam.</p>";
-                        echo "<br/>";
-
-                        echo "<p> Oh the sky will be blue, and you guys will be there too</p>";
-                        echo "<p> When I finally do what frozen things do in summer.</p>";
+                        echo "<p> Yeah yeah</p>";
+                        echo "<p> Yeah yeah</p>";
+                        echo "<p> Yeah yeah</p>";
+                        echo "<p> Oh yeah </p>";
                         echo "<br/>";
                         ?>
       
